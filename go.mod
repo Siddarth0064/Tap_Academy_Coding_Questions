@@ -1,0 +1,3 @@
+module tap-academy
+
+go 1.21.5
